@@ -21,3 +21,6 @@ Halo Semua! Saya Naufal Zhafran Albaqi, saya merupakan mahasiswa tingkat tiga pr
 
 ### Contact Us 
 📫 : naufalzha17@gmail.com
+
+
+ ©Naufal Zhafran Albaqi-
