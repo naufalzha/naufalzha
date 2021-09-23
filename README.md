@@ -16,3 +16,8 @@ Halo Semua! Saya Naufal Zhafran Albaqi, saya merupakan mahasiswa tingkat tiga pr
 
 ### Language and Tools 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Eo_circle_blue_white_letter-r.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
+
+### Contact Us 
+📫 : naufalzha17@gmail.com
