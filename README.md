@@ -19,8 +19,9 @@ Halo Semua! Saya Naufal Zhafran Albaqi, saya merupakan mahasiswa tingkat tiga pr
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Eo_circle_blue_white_letter-r.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 
+![Naufalzha GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalzha&show_icons=true&theme=default)
+
 ### Contact Us 
 📫 : naufalzha17@gmail.com
-
 
  ©Naufal Zhafran Albaqi-
