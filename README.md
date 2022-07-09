@@ -12,7 +12,7 @@
 <br />
 
 ### About Me 🙍🏽‍♂️ 
-Halo Semua! Saya Naufal Zhafran Albaqi, saya merupakan mahasiswa tingkat tiga program studi statistika 〽️, memiliki ketertarikan yang tinggi dengan dunia data 👨🏽‍💻, saya juga memiliki keinginan untuk terus menambah pengetahuan saya di dunia data terutama dalam bidang data analyst, data science, business intelligence dan social media analytics🚀.
+Hello, My name is Naufal Zhafran Albaqi. I am a final year statistics student at Jakarta State University 〽️,  I have experience in Bangkit Academy 2022, especially in the Machine Learning path. I like and am very interested in the world of data👨🏽‍💻, I hope to learn and increase my knowledge of data, especially in data analytics, data science, machine learning, Deep Learning, NLP, and business intelligence. I look forward to collaborating with you🚀.
 
 ### Language and Tools 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
